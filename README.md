@@ -1,4 +1,4 @@
-# PetFriensTesting
+# PetFriendsTesting
 
 Тестовый проект к 19 модулю SkillFactory курса QAP
 
